@@ -20,7 +20,7 @@ export default function Home() {
         <PreLoader />
         <FloatingNav navItems={navItems} />
         <Hero />
-        {/* <Grid /> */}
+        <Grid />
         <Experience />
         <RecentProjects />
         <Clients />
