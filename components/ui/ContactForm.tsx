@@ -2,7 +2,7 @@
 import React from "react";
 import { Label } from "./label";
 import { Input, Textarea } from "./input";
-import { cn } from "@/lib/utils";
+import { cn } from "../../lib/utils";
 import {
   IconBrandGithub,
   IconBrandGoogle,
