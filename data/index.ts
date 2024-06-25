@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Our Mission Statement",
-    desc: "We strive to provide top-tier technology solutions, empower businesses to achieve their goals.",
+    title: "Game Development",
+    desc: "Crafting immersive and engaging gaming experiences with cutting-edge technology and creative storytelling to captivate players worldwide.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Our Core Values",
-    desc: "Integrity, innovation, and customer-centricity are at the heart of our operations.",
+    title: "App Development",
+    desc: "Building intuitive and robust mobile applications designed to enhance user experience, streamline operations, and drive business growth.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Our Expertise",
-    desc: "With a team of seasoned professionals, we excel in delivering cutting-edge.",
+    title: "Website Development",
+    desc: "Creating dynamic and responsive websites tailored to your brand, ensuring a seamless online presence and superior user engagement.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Our Commitment",
-    desc: "Dedicated to your success, we offer unwavering support and reliable solutions.",
+    title: "AI & Machine Learning",
+    desc: "Implement AI and build machine learning models to scale your business and product effectively and efficiently for better growth.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },

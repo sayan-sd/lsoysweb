@@ -98,11 +98,12 @@ a{
     transition: all 400ms ease;
 }
 
-.footer-social-link a i{
+.footer-social-link a{
+    transition: all 400ms ease;
     color: hsl(228, 8%, 70%);
 }
 
-.footer-social-link a i:hover{
+.footer-social-link a:hover{
     color: hsl(228, 66%, 62%);
 }
 
